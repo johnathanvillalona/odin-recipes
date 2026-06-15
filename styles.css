@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.recipes ul {
+    display: flex;
+}
+
+.recipes ul li {
+    width: 200px;
+    padding: 1em;
+    list-style: none;
+    border: 2px solid black;
+    margin: 10px;
+}
